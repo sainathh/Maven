@@ -1,2 +1,1 @@
-This Project demonstrate how we can use JUnit to automate our Java Unit testing. 
-It shows examples of @Test @Test(expected=Exception.class) @Test(timeout=1000) methods.
+This Project describes the webhook trigger for individual folders in a repository
