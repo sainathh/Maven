@@ -13,3 +13,6 @@ ignorepaths plugin
 
 Testing ignorepaths plugin
 ignorepaths plugin
+
+
+ignorepaths plugin
