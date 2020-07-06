@@ -10,3 +10,4 @@ Testing with ignorepaths plugin
 Testing with ignorepaths
 
 created Jenkinsfile with when condition
+created Jenkinsfile with when condition
