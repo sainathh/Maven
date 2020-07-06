@@ -5,3 +5,5 @@ Jenkinsfile added
 pathignore plugin installed
 place this as revert ignore
 place this as revert ignore -> unchecked
+
+Testing with ignorepaths plugin
