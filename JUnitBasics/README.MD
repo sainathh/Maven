@@ -8,3 +8,5 @@ place this as revert ignore -> unchecked
 
 Testing with ignorepaths plugin
 Testing with ignorepaths
+
+created Jenkinsfile with when condition
