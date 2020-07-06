@@ -10,3 +10,6 @@ Testing webhooks
 
 Testing ignorepaths plugin
 ignorepaths plugin
+
+Testing ignorepaths plugin
+ignorepaths plugin
