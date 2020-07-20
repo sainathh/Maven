@@ -6,3 +6,4 @@ Testing with ignorepaths plugin
 
 
 demo
+Testing with ignorepaths plugin
